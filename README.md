@@ -46,7 +46,8 @@ sim_vehicle.py -f gazebo-iris --console --map
 ```bash
 cd ~/ardupilot_ws/src/launch && roslaunch apm.launch
 ```
-### Run the script
+### Run the [script](https://github.com/lion-X-drones/PrecisionLandingDrone/blob/main/Script/aruco_landing.py)
+
 ```bash
 python3 aruco_landing.py
 ```
