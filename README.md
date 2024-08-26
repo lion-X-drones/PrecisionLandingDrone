@@ -4,7 +4,7 @@ Precision landing using ArUco markers over GPS enhances the landing accuracy of 
 
 ArUco markers are square fiducial markers with unique IDs that allow the drone's vision system to recognize and calculate the marker's position and orientation. This visual feedback enables the drone to adjust its landing trajectory in real-time, ensuring a more accurate descent. This method is particularly useful in scenarios requiring exact landings, such as on small charging pads or specific locations in complex environments.
 
-## Prerequisites for simulation
+
 ## Prerequisites for simulation
 You should have basic understanding of these
 - **ROS Noetic (Ubuntu 20.04)**: Robot Operating System (ROS or ros) is an [open-source](https://en.wikipedia.org/wiki/Open-source_software) [robotics middleware](https://en.wikipedia.org/wiki/Robotics_middleware) suite. Although ROS is not an operating system (OS) but a set of software frameworks for robot software development. ROS Noetic Ninjemys is primarily targeted at the Ubuntu 20.04 (Focal) release, though other systems are supported to varying degrees. Note that you should install ROS Noetic Full Desktop version.
